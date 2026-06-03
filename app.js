@@ -10,29 +10,29 @@ fetch("/brands.json")
 
 ```
 const path = decodeURIComponent(
-    location.pathname.replace(/^\/|\/$/g,"")
+    location.pathname.replace(/^\/|\/$/g, "")
 );
 
-if(path === ""){
+if (path === "") {
     renderBrands(data);
     return;
 }
 
 const parts = path.split("/");
 
-if(parts.length === 1){
+if (parts.length === 1) {
     renderModels(data, parts[0]);
     return;
 }
 
-if(parts.length === 2){
+if (parts.length === 2) {
     renderImages(data, parts[0], parts[1]);
 }
 ```
 
 });
 
-function renderBrands(data){
+function renderBrands(data) {
 
 ```
 let html = `<h1>Brands</h1><div class="grid">`;
@@ -64,13 +64,13 @@ app.innerHTML = html;
 
 }
 
-function renderModels(data, brandSlug){
+function renderModels(data, brandSlug) {
 
 ```
 const brand = Object.keys(data)
     .find(b => slug(b) === brandSlug);
 
-if(!brand){
+if (!brand) {
     app.innerHTML = "<h1>Not Found</h1>";
     return;
 }
@@ -108,18 +108,18 @@ app.innerHTML = html;
 
 }
 
-function renderImages(data, brandSlug, modelSlug){
+function renderImages(data, brandSlug, modelSlug) {
 
 ```
 const brand = Object.keys(data)
     .find(b => slug(b) === brandSlug);
 
-if(!brand) return;
+if (!brand) return;
 
 const model = Object.keys(data[brand].models)
     .find(m => slug(m) === modelSlug);
 
-if(!model) return;
+if (!model) return;
 
 const images = data[brand].models[model];
 
@@ -143,13 +143,13 @@ initLightbox();
 
 }
 
-function slug(text){
+function slug(text) {
 return text
 .toLowerCase()
-.replace(/\s+/g,"-");
+.replace(/\s+/g, "-");
 }
 
-function initLightbox(){
+function initLightbox() {
 
 ```
 const lightbox = document.getElementById("lightbox");
@@ -173,7 +173,7 @@ closeBtn.onclick = () => {
 };
 
 lightbox.onclick = e => {
-    if(e.target === lightbox){
+    if (e.target === lightbox) {
         lightbox.style.display = "none";
     }
 };
