@@ -1,0 +1,100 @@
+{
+  "Nike": {
+    "cover": "/Nike/Air max/Photo  (6).jpg",
+    "models": {
+      "Air max": [
+        "/Nike/Air max/Photo  (6).jpg",
+        "/Nike/Air max/Photo  (7).jpg",
+        "/Nike/Air max/Photo  (5).jpg",
+        "/Nike/Air max/Photo  (2).webp",
+        "/Nike/Air max/Photo  (1).jpg",
+        "/Nike/Air max/Photo  (4).jpg",
+        "/Nike/Air max/Photo  (3).jpg",
+        "/Nike/Air max/IMG-20250406-WA0044.jpg"
+      ],
+      "Blazer": [
+        "/Nike/Blazer/Photo (4).jpg",
+        "/Nike/Blazer/Photo (6).jpg",
+        "/Nike/Blazer/Photo (3).jpg",
+        "/Nike/Blazer/Photo (1).jpg",
+        "/Nike/Blazer/Photo (5).jpg",
+        "/Nike/Blazer/Photo (2).jpg"
+      ],
+      "Kobe": [
+        "/Nike/Kobe/Photo (5).jpg",
+        "/Nike/Kobe/Photo (6).jpg",
+        "/Nike/Kobe/Photo (2).jpg",
+        "/Nike/Kobe/Photo (7).jpg",
+        "/Nike/Kobe/Photo (9).jpg",
+        "/Nike/Kobe/Photo (8).jpg",
+        "/Nike/Kobe/Photo (4).jpg",
+        "/Nike/Kobe/Photo (3).jpg",
+        "/Nike/Kobe/Photo (1).jpg",
+        "/Nike/Kobe/IMG-20250823-WA0031.jpg",
+        "/Nike/Kobe/IMG-20250417-WA0005.jpg",
+        "/Nike/Kobe/IMG-20260409-WA0022.jpg"
+      ],
+      "P-6000": [
+        "/Nike/P-6000/Photo (5).jpg",
+        "/Nike/P-6000/Photo (6).jpeg",
+        "/Nike/P-6000/Photo (1).jpg",
+        "/Nike/P-6000/Photo (2).jpg",
+        "/Nike/P-6000/2D4C0B53-1D8B-40B6-A152-C0AC5CCC869C.jpg",
+        "/Nike/P-6000/Photo (3).jpg",
+        "/Nike/P-6000/Photo (4).jpg"
+      ],
+      "RNR": [
+        "/Nike/RNR/IMG-20260204-WA0063.jpg",
+        "/Nike/RNR/IMG-20260107-WA0006(2).jpg",
+        "/Nike/RNR/IMG-20260204-WA0065.jpg",
+        "/Nike/RNR/IMG-20260108-WA0075(1).jpg",
+        "/Nike/RNR/IMG-20260104-WA0029(1).jpg",
+        "/Nike/RNR/IMG-20260106-WA0014.jpg",
+        "/Nike/RNR/IMG-20260107-WA0035.jpg",
+        "/Nike/RNR/IMG-20260108-WA0018.jpg",
+        "/Nike/RNR/IMG-20250705-WA0044(1).jpg"
+      ],
+      "Uptempo": [
+        "/Nike/Uptempo/Photo (3).jpg",
+        "/Nike/Uptempo/Photo (4).jpg",
+        "/Nike/Uptempo/Photo (1).jpg",
+        "/Nike/Uptempo/Photo (2).jpg",
+        "/Nike/Uptempo/Photo (6).jpg",
+        "/Nike/Uptempo/Photo (5).jpg"
+      ],
+      "Vomero": [
+        "/Nike/Vomero/1.jpg"
+      ]
+    }
+  },
+  "Puma": {
+    "cover": "/Puma/Ballet/489886459-4026252197696739-4340197212567380619-n-1744285920186.jpg",
+    "models": {
+      "Ballet": [
+        "/Puma/Ballet/489886459-4026252197696739-4340197212567380619-n-1744285920186.jpg",
+        "/Puma/Ballet/png.jpeg",
+        "/Puma/Ballet/C8spnIUB7PipWekJBgN7_401287-06-Puma-Speedcat-Ballet-SD-Puma-Black-Puma-White-Warm-White-SM-1_768x768_crop_center.jpg",
+        "/Puma/Ballet/IMG-20250527-WA0101(2).jpg",
+        "/Puma/Ballet/IMG-20250424-WA0115(1).jpg",
+        "/Puma/Ballet/486639291_17868985368343544_3469489848850949031_n.jpg",
+        "/Puma/Ballet/IMG_20260512_153254_409.jpg"
+      ],
+      "Speedcat": [
+        "/Puma/Speedcat/IMG-20250830-WA0049.jpg",
+        "/Puma/Speedcat/Picsart_25-09-09_03-23-45-265.jpg",
+        "/Puma/Speedcat/Photo (1).jpg",
+        "/Puma/Speedcat/IMG-20250822-WA0031(1).jpg",
+        "/Puma/Speedcat/product-jpeg-1000x1000 (1).jpg",
+        "/Puma/Speedcat/Photo (4).jpg",
+        "/Puma/Speedcat/IMG-20250901-WA0053.jpg",
+        "/Puma/Speedcat/rn-image_picker_lib_temp_d5b4eda0-1b26-4dbf-8d0e-aa6e6d4fdc88.jpg",
+        "/Puma/Speedcat/Photo (2).jpg",
+        "/Puma/Speedcat/IMG-20251001-WA0023(1).jpg",
+        "/Puma/Speedcat/IMG_20260512_153039_605.jpg",
+        "/Puma/Speedcat/Photo (3).jpg",
+        "/Puma/Speedcat/IMG-20250527-WA0072(2).jpg",
+        "/Puma/Speedcat/IMG-20250822-WA0028.jpg"
+      ]
+    }
+  }
+}
