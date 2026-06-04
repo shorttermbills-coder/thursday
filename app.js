@@ -4,7 +4,7 @@ document.addEventListener("selectstart", e => e.preventDefault());
 
 const app = document.getElementById("app");
 
-fetch("/brands.json")
+fetch("./brands.json")
 .then(r => r.json())
 .then(data => {
 
